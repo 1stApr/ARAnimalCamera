@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneCrab.unity
+    guid: a9f175193b1ff0842935354c47b4a440
+  - enabled: 1
+    path: Assets/Scenes/SceneTurtle.unity
+    guid: 4c3f5906a517bf44189eefc9b60784de
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SceneZebra.unity
+    guid: cccd3a3975c8e024aa603cc468d18e45
+  - enabled: 1
+    path: Assets/Scenes/SceneCat.unity
+    guid: e6f74c2336c6c70449ed5928c065b76a
+  - enabled: 1
+    path: Assets/Scenes/SceneBuffalo.unity
+    guid: b618b8ae631003d4abe71183a910e73a
+  - enabled: 1
+    path: Assets/Scenes/SceneChicken.unity
+    guid: 2921661feef233c41af988a63e8b042a
+  - enabled: 1
+    path: Assets/Scenes/SceneCattle.unity
+    guid: 39b43a8eae9989e41990f6b8fcd85ffc
+  - enabled: 1
+    path: Assets/Scenes/SceneFrog.unity
+    guid: e594d2a75b532804faa3ffa2e230bd4d
+  - enabled: 1
+    path: Assets/Scenes/SceneGepard.unity
+    guid: 7772a71b38c243e42a357b895b4ec722
+  - enabled: 1
+    path: Assets/Scenes/SceneIbex.unity
+    guid: f459ed4564eca304cb774fed80e5c3f8
+  - enabled: 1
+    path: Assets/Scenes/SceneElephant.unity
+    guid: 34f9606529fd4094998c10355b042680
+  - enabled: 1
+    path: Assets/Scenes/SceneHorse.unity
+    guid: 2b145b8dec9601f4a83e2a9bb7573a05
+  - enabled: 1
+    path: Assets/Scenes/ScenePenguin.unity
+    guid: ad1fd79d505abb34695f4e6c1dec8a75
+  - enabled: 1
+    path: Assets/Scenes/SceneOctopus.unity
+    guid: 7e746c3657ff0c14ebaaf93d40d08cd8
+  - enabled: 1
+    path: Assets/Scenes/ScenePig.unity
+    guid: d3e897016020f7c4587f49ffbc4f770f
+  - enabled: 1
+    path: Assets/Scenes/ScenePerch.unity
+    guid: b89aca7fc29707147b0bf69fae73ad9d
+  - enabled: 1
+    path: Assets/Scenes/SceneSalmon.unity
+    guid: 0be24a244787f4441b22286b12629148
+  - enabled: 1
+    path: Assets/Scenes/SceneSalamander.unity
+    guid: 808ad79f965939a4d97f5dec85edbeac
+  - enabled: 1
+    path: Assets/Scenes/SceneRhinoceros.unity
+    guid: 4738fc5cea03e364881185a938018411
+  - enabled: 1
+    path: Assets/Scenes/SceneTucano.unity
+    guid: 7fa8e9095ab8a6247bbb2e1e432dfa1a
+  - enabled: 1
+    path: Assets/Scenes/SceneTiger.unity
+    guid: f479213718ea5dd4fae79bb219419404
+  - enabled: 1
+    path: Assets/Scenes/SceneSwan.unity
+    guid: 909ffe309a3aa824bb75b3e220b5a59d
+  - enabled: 1
+    path: Assets/Scenes/SceneSpider.unity
+    guid: 2d2f6746db66c6f43bc5fefa94f0e2a7
+  - enabled: 1
+    path: Assets/Scenes/SceneScorpion.unity
+    guid: 7664db1ca7bf8de4589abfbb9dd3adf4
+  - enabled: 1
+    path: Assets/Scenes/SceneRabbit.unity
+    guid: 0ee999a866985ad49ba4a1fa7b63e4c1
+  m_configObjects: {}

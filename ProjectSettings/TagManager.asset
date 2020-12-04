@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Model
+  - UI1
+  - UI2
+  - ModelBat
+  - ModelBeagle
+  - ModelBear
+  - ModelElephant
+  - ModelButterfly
+  - ModelCamel
+  - ModelBuffalo
+  - ModelCat
+  - ModelCattle
+  - ModelChick
+  - ModelChicken
+  - ModelSheep
+  - ModelFrog
+  - ModelCrocodile
+  - ModelDeer
+  - ModelCrab
+  - ModelSalamander
+  - ModelSpider
+  - ModelShark
+  - ModelLizard
+  - ModelHorse
+  - ModelIbex
+  - ModelLeopard
+  - ModelPig
+  - ModelOctopus
+  - ModelPenguin
+  - ModelPerch
+  - ModelPike
+  - ModelPug
+  - ModelRat
+  - ModelRhinoceros
+  - ModelSalmon
+  - ModelScorpion
+  - ModelTurtle
+  - ModelSwan
+  - ModelTiger
+  - ModelTucano
+  - ModelRabbit
+  - ModelWolf
+  - ModelZebra
+  - UIScan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="low_resolution_image" size="0.050000 0.032812" />
+    <ImageTarget name="Cat" size="0.010000 0.013518" />
+    <ImageTarget name="Chicken" size="1.000000 1.340708" />
+    <ImageTarget name="Bat" size="0.010000 0.013363" />
+    <ImageTarget name="Bufalo" size="0.010000 0.013473" />
+    <ImageTarget name="Cattle" size="0.010000 0.013407" />
+    <ImageTarget name="Crab" size="0.010000 0.013407" />
+    <ImageTarget name="Deer" size="0.010000 0.013407" />
+    <ImageTarget name="Elephant" size="0.010000 0.013518" />
+    <ImageTarget name="Frog" size="0.010000 0.013473" />
+    <ImageTarget name="Horse" size="0.010000 0.013518" />
+    <ImageTarget name="Ibex" size="0.010000 0.013451" />
+    <ImageTarget name="Leopard" size="0.010000 0.013407" />
+    <ImageTarget name="Octopus" size="0.010000 0.013473" />
+    <ImageTarget name="Penguin" size="0.010000 0.013319" />
+    <ImageTarget name="Perch" size="0.010000 0.013518" />
+    <ImageTarget name="Pig" size="0.010000 0.013429" />
+    <ImageTarget name="Rabbit" size="0.010000 0.013429" />
+    <ImageTarget name="Rhinoceros" size="0.010000 0.013518" />
+    <ImageTarget name="Salamander" size="0.010000 0.013473" />
+    <ImageTarget name="Salmon" size="0.010000 0.013319" />
+    <ImageTarget name="Scorpion" size="0.010000 0.013473" />
+    <ImageTarget name="Spider" size="0.010000 0.013319" />
+    <ImageTarget name="SwanGoose" size="0.010000 0.013407" />
+    <ImageTarget name="Tiger" size="0.010000 0.013407" />
+    <ImageTarget name="Tucano" size="0.010000 0.013407" />
+    <ImageTarget name="Turtle" size="0.010000 0.013606" />
+    <ImageTarget name="Zebra" size="0.010000 0.013407" />
+  </Tracking>
+</QCARConfig>
